@@ -1,0 +1,67 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+    padding: 20px;
+    background-color: #f0f0f0;
+}
+
+#settings {
+    margin-bottom: 20px;
+}
+
+#gameBoard {
+    display: grid;
+    gap: 1px;
+    background-color: #444;
+}
+
+.cell {
+    width: 30px;
+    height: 30px;
+    background-color: #ccc;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    cursor: pointer;
+    user-select: none;
+} 
+
+.cell.mine {
+    background-color: red;
+}
+
+.cell.revealed {
+    background-color: #eee;
+    cursor: default;
+}
+
+.cell.flagged {
+    background-color: #f7f7b7;
+    cursor: default;
+}
+
+#gameArea {
+    display: flex;
+}
+
+#playerList {
+    margin-left: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.player {
+    padding: 5px;
+    margin-bottom: 5px;
+    background-color: #ddd;
+    cursor: pointer;
+    text-align: center;
+}
+
+.player.highlight {
+    background-color: #b0e57c;
+}
