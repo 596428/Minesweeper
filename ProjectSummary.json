@@ -1,0 +1,12 @@
+{
+  "title": "IT 엘도라도 (블로그)",
+  "subheading": "Notion API/DB와 연동하여 개발한 개인 블로그",
+  "content": [
+    "티스토리 플랫폼에서의 불편함을 해소하고자 직접 개발",
+    "별도의 데이터베이스 서버 없이 Notion API/DB와 연동하여 개발",
+    "검색 엔진 최적화(SEO) 고도화 및 검색 엔진 마이그레이션",
+    "무한 스크롤, 방문/조회 수 추적, 댓글/좋아요 등의 커뮤니티 기능 개발"
+  ],
+  "link": "https://it-eldorado.com",
+  "techStack": ["TypeScript", "Next.js", "Zustand", "React-Query", "Tailwind CSS", "Notion", "Vercel"]
+}
