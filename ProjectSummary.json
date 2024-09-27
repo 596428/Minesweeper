@@ -1,11 +1,10 @@
 {
   "title": "auto_upload",
-  "subheading": "깃허브 리포지토리를 자동으로 탐색하여 카드화",
+  "subheading": "스프링부트 프로젝트 AWS 배포 실습",
   "content": [
-    "한번 배포하고 다시는 건드리지않겠다는 마인드",
-    "모달창 누르면 깃허브의 readme 불러오기",
-    "대충제대로안돌아가서화난다는내용"
+    "지뢰찾기",
+    ""
   ],
-  "link": "https://596428.github.io/",
-  "techStack": ["TypeScript", "Next.js", "Zustand", "React-Query", "Tailwind CSS", "Notion", "Vercel"]
+  "link": "https://192.168.11.13/8083",
+  "techStack": ["Spring Boot", "JavaScript", "AWS", "MariaDB", "Python"]
 }
