@@ -6,6 +6,6 @@
     "모달창 누르면 깃허브의 readme 불러오기",
     "대충제대로안돌아가서화난다는내용"
   ],
-  "link": "https://koporesume.netlify.app/",
+  "link": "https://596428.github.io/",
   "techStack": ["TypeScript", "Next.js", "Zustand", "React-Query", "Tailwind CSS", "Notion", "Vercel"]
 }
