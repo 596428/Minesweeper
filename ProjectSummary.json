@@ -1,12 +1,11 @@
 {
-  "title": "IT 엘도라도 (블로그)",
-  "subheading": "Notion API/DB와 연동하여 개발한 개인 블로그",
+  "title": "auto_upload",
+  "subheading": "깃허브 리포지토리를 자동으로 탐색하여 카드화",
   "content": [
-    "티스토리 플랫폼에서의 불편함을 해소하고자 직접 개발",
-    "별도의 데이터베이스 서버 없이 Notion API/DB와 연동하여 개발",
-    "검색 엔진 최적화(SEO) 고도화 및 검색 엔진 마이그레이션",
-    "무한 스크롤, 방문/조회 수 추적, 댓글/좋아요 등의 커뮤니티 기능 개발"
+    "한번 배포하고 다시는 건드리지않겠다는 마인드",
+    "모달창 누르면 깃허브의 readme 불러오기",
+    "대충제대로안돌아가서화난다는내용"
   ],
-  "link": "https://it-eldorado.com",
+  "link": "https://koporesume.netlify.app/",
   "techStack": ["TypeScript", "Next.js", "Zustand", "React-Query", "Tailwind CSS", "Notion", "Vercel"]
 }
